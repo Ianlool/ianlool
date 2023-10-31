@@ -18,5 +18,5 @@ Sou um desenvolvedor front-end apaixonado pela criação de experiências digita
 
 O que posso oferecer:
 
-Habilidades Técnicas: Experiência sólida em HTML, CSS e JavaScript, juntamente com o domínio de bibliotecas e frameworks modernos.
+Habilidades Técnicas: Experiência sólida em HTML, CSS , JavaScript e Boostrap juntamente com o domínio de bibliotecas e frameworks modernos.
  
