@@ -16,7 +16,9 @@
 <br>
 Sou um desenvolvedor front-end apaixonado pela criação de experiências digitais incríveis. Com uma paixão por HTML, CSS e JavaScript, transformo designs criativos em sites interativos e responsivos. Minha missão é combinar habilidades técnicas sólidas com um toque de design e usabilidade, garantindo que cada projeto seja uma experiência excepcional para os usuários.
 
+
 O que posso oferecer:
+
 
 Habilidades Técnicas: Experiência sólida em HTML, CSS , JavaScript e Boostrap juntamente com o domínio de bibliotecas e frameworks modernos.
  
