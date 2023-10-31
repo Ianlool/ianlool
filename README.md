@@ -14,5 +14,9 @@
 
 </div>
 <br>
-Apaixonado por tecnologia e educação. Lessiono programação e esse repositorio tem sido mais utilizado para explicar aulas de versionamento, mas ja estou começando a migrar meus projetos pessoais.
+Sou um desenvolvedor front-end apaixonado pela criação de experiências digitais incríveis. Com uma paixão por HTML, CSS e JavaScript, transformo designs criativos em sites interativos e responsivos. Minha missão é combinar habilidades técnicas sólidas com um toque de design e usabilidade, garantindo que cada projeto seja uma experiência excepcional para os usuários.
+
+O que posso oferecer:
+
+Habilidades Técnicas: Experiência sólida em HTML, CSS e JavaScript, juntamente com o domínio de bibliotecas e frameworks modernos.
  
